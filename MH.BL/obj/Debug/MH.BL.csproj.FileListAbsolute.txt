@@ -1,0 +1,5 @@
+C:\Users\NGUYEN\source\repos\OOP Fundamental\MH.BL\obj\Debug\MH.BL.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN\source\repos\OOP Fundamental\MH.BL\bin\Debug\MH.BL.dll
+C:\Users\NGUYEN\source\repos\OOP Fundamental\MH.BL\bin\Debug\MH.BL.pdb
+C:\Users\NGUYEN\source\repos\OOP Fundamental\MH.BL\obj\Debug\MH.BL.dll
+C:\Users\NGUYEN\source\repos\OOP Fundamental\MH.BL\obj\Debug\MH.BL.pdb
