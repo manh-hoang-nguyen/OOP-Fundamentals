@@ -3,3 +3,9 @@ C:\Users\NGUYEN\source\repos\OOP Fundamental\MH.BL\bin\Debug\MH.BL.dll
 C:\Users\NGUYEN\source\repos\OOP Fundamental\MH.BL\bin\Debug\MH.BL.pdb
 C:\Users\NGUYEN\source\repos\OOP Fundamental\MH.BL\obj\Debug\MH.BL.dll
 C:\Users\NGUYEN\source\repos\OOP Fundamental\MH.BL\obj\Debug\MH.BL.pdb
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BL\bin\Debug\MH.BL.dll
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BL\bin\Debug\MH.BL.pdb
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BL\obj\Debug\MH.BL.csprojAssemblyReference.cache
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BL\obj\Debug\MH.BL.csproj.CoreCompileInputs.cache
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BL\obj\Debug\MH.BL.dll
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BL\obj\Debug\MH.BL.pdb

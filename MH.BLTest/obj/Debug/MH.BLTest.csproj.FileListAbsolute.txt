@@ -17,3 +17,22 @@ C:\Users\NGUYEN\source\repos\OOP Fundamental\MH.BLTest\bin\Debug\Microsoft.Visua
 C:\Users\NGUYEN\source\repos\OOP Fundamental\MH.BLTest\obj\Debug\MH.BLTest.csproj.CopyComplete
 C:\Users\NGUYEN\source\repos\OOP Fundamental\MH.BLTest\obj\Debug\MH.BLTest.dll
 C:\Users\NGUYEN\source\repos\OOP Fundamental\MH.BLTest\obj\Debug\MH.BLTest.pdb
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BLTest\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BLTest\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BLTest\bin\Debug\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BLTest\bin\Debug\MH.BLTest.dll
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BLTest\bin\Debug\MH.BLTest.pdb
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BLTest\bin\Debug\MH.BL.dll
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BLTest\bin\Debug\MH.BL.pdb
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BLTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BLTest\obj\Debug\MH.BLTest.csprojAssemblyReference.cache
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BLTest\obj\Debug\MH.BLTest.csproj.CoreCompileInputs.cache
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BLTest\obj\Debug\MH.BLTest.csproj.CopyComplete
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BLTest\obj\Debug\MH.BLTest.dll
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\OOP-Fundamentals\MH.BLTest\obj\Debug\MH.BLTest.pdb

@@ -35,5 +35,47 @@
 
             Assert.AreEqual(expected, actual);
         }
+        [TestMethod]
+        public void StaticTest()
+        {
+            Customer customer = new Customer();
+            Customer.InstanceCount += 1;
+            customer.FirstName = "Nguyen";
+
+            Customer customer1 = new Customer();
+            Customer.InstanceCount += 1;
+
+            Assert.AreEqual(2, Customer.InstanceCount);
+        }
+        [TestMethod]
+        public void ValidateValid()
+        {
+            Customer customer = new Customer
+            {
+                LastName="Baggin",
+                EmailAddress ="test@gmail.com"
+            };
+
+            var actual = customer.Validate();
+
+            var expected = true;
+
+            Assert.AreEqual(expected, actual);
+        }
+        [TestMethod]
+        public void ValidateMissingLastName()
+        {
+            Customer customer = new Customer
+            {
+                
+                EmailAddress = "test@gmail.com"
+            };
+            
+            var actual = customer.Validate();
+
+            var expected = false;
+
+            Assert.AreEqual(expected, actual);
+        }
     }
 }
